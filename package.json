@@ -1,6 +1,6 @@
 {
   "name": "dcord-oauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM Package to handle discord OAuth Requests.",
   "main": "./index.js",
   "scripts": {
