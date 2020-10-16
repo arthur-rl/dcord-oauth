@@ -33,4 +33,5 @@ router.get('/callback', async (req, res) => {
         res.sendStatus(400)
     }
 });
+```
 * That's pretty much it for the basics. Feel free to make PR's to make this package better!
