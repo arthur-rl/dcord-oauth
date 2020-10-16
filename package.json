@@ -1,0 +1,23 @@
+{
+  "name": "dcord-oauth",
+  "version": "1.0.0",
+  "description": "A NPM Package to handle discord OAuth Requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-rl/dcord-oauth.git"
+  },
+  "author": "Arthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthur-rl/dcord-oauth/issues"
+  },
+  "homepage": "https://github.com/arthur-rl/dcord-oauth#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "qs": "^6.9.4"
+  }
+}
