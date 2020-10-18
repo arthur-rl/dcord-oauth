@@ -4,7 +4,7 @@ A NPM Package for handling discord OAuth2 Requests!
 # Documentation
 ###
 ```js
-  const DiscordOAuth = require("../dcord-oauth/lib");
+  const DiscordOAuth = require("dcord-oauth");
   const OAuth = new DiscordOAuth.OAuth({
       clientID: "CLIENT_ID",
       clientSecret: "CLIENT_SECRET",
